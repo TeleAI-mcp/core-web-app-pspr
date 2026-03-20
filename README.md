@@ -1,2 +1,3 @@
-# core-web-app-pspr
-Automated issue comment bot repository
+# Core Web App Pspr
+
+Automated issue comment bot repository.
